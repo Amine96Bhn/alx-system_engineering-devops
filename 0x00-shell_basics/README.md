@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
@@ -12,3 +13,6 @@ Untracked files:
 	../README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+=======
+Display the contents list of your current directory in a long format
+>>>>>>> a6af9ed5deadde350693d8d6badde040aa9dc454
